@@ -1,3 +1,23 @@
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+button {
+    cursor: pointer;
+}
+
 .navShow {
     background-image: url("https://s3-alpha-sig.figma.com/img/e680/a663/f06a93ab07eecf47822e521dc4b9cb7f?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ZopfWOftMKvqGsZjJm7Mf4Cwbv3spUWdp7ImSoW6~X7olxpdhYy-O8GAb0iRUc-zWpnB0mUdrRjNIMNhZeubpEvgK6rsvZ5YCB56QrTHlAbmGGiFcwtPSLecVNk4xR6PZ5b1tfFe5RY0B43vsWfp268RU3-GMVbAuL7z3Ou5WPqdxPNdsYHnJvn1wZO-fGcU6AWcLzpLFyhR6zJNr78kLn3iOw0I1Tz~Ted~SGcP7nl8a9SHVXZ5-xiZjtsjmvBpC~aHxdB-knFnpbVnkJSVIniyHAOcFWjCdx59819zcNmuup0QWogmdNgm97Pci3opmZb5UrjAvK3JvIIBk5Zlpw__");
     background-position: center;

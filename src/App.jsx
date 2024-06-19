@@ -1,6 +1,6 @@
 import './App.scss'
 
-function App() {
+export default function App() {
 
   return (
     <>
@@ -51,10 +51,8 @@ function App() {
           <img src="/f3.png" alt="" />
           <h3>Reformidans eis</h3>
           <p>Ne usu illud albucius abhor reant, <br /> partiendo scriptorem mel ne.</p>
+
         </div>
       </div>
-    </>
-  )
+    </>)
 }
-
-export default App
